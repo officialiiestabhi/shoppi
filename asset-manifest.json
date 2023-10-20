@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shoppi/static/css/main.27d55ba1.css",
+    "main.js": "/shoppi/static/js/main.f7a95e0b.js",
+    "static/media/logo.png": "/shoppi/static/media/logo.abe38ad162a16fe8cdda.png",
+    "index.html": "/shoppi/index.html",
+    "main.27d55ba1.css.map": "/shoppi/static/css/main.27d55ba1.css.map",
+    "main.f7a95e0b.js.map": "/shoppi/static/js/main.f7a95e0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27d55ba1.css",
+    "static/js/main.f7a95e0b.js"
+  ]
+}
